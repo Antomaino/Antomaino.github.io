@@ -1082,6 +1082,10 @@ Infos Style
   text-align: center; /* Asegura que el contenido dentro del div esté centrado */
 }
 
+.imginsta {
+  max-width: 30px;
+
+}
 .infos .main-content .left-image {
   background-image: url(../images/left-infos.jpg);
   background-repeat: no-repeat;
